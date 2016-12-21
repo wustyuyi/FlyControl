@@ -19,9 +19,9 @@ int main(void)
 	Buzzer.Init();
 	while(1)
 	{		
-		TG_50HZ.Run();
-		TG_200HZ.Run();
-		TG_500HZ.Run();
+//		TG_50HZ.Run();
+//		TG_200HZ.Run();
+//		TG_500HZ.Run();
 	}
 }
 
