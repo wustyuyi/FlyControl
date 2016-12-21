@@ -4398,52 +4398,52 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       892         58          0         13          0       6413   ads1118.o
-         0          0       2052          0          0        679   arm_common_tables.o
-       144         12          0          0          0        770   arm_cos_f32.o
-       140         12          0          0          0        770   arm_sin_f32.o
-      2760        110          4         48        108      18328   attitude.o
-       872         62          0         13         48       3960   battery.o
-       132         22          0         16          0       2360   buzzer.o
-      9630        224          0         15         24      14914   communication.o
-      1148          4          0          0          0       5356   filter.o
-      4184        326          4       1000          0       8031   flycontrol.o
-       440         48          0         27       1036       4044   gps.o
-       814         80          4         20        120       5754   hmc5883.o
-       772          0          0          0          0       6900   i2c_soft.o
-       280         40          0         32          0       3156   led.o
-       250         76          4          0         96     342271   main.o
-       520         36          0         12          0      20334   math_user.o
-       140         24          0          0          0       1643   misc.o
-      1428         88          0         20         24       3523   motor.o
-      2016        172          4         28        228      10279   mpu6050.o
-      1680        168          4         30        168       9030   ms5611_spi.o
-      1262        120          0         40         96      11050   nrf24l01.o
-       888         44          0          0          0       2640   pid.o
-      1360        218          4         40        104       7914   posotion.o
-       724         88        192         33         98       6029   sbus.o
-       174         58          0         16          0       3652   scheduler.o
-        64         26        392          0       1536        852   startup_stm32f40xx.o
-       392         24          0          0          0       5723   stm32f4xx_adc.o
-       110          6          0          0          0       2465   stm32f4xx_dma.o
-       184         16          0          0          0       2216   stm32f4xx_exti.o
-       402         40          0          0          0       4693   stm32f4xx_flash.o
-       222          0          0          0          0       3031   stm32f4xx_gpio.o
-        24          0          0          0          0       3896   stm32f4xx_it.o
-       324         32          0         16          0       4851   stm32f4xx_rcc.o
-       112          0          0          0          0       3662   stm32f4xx_spi.o
-        64          4          0          0          0        684   stm32f4xx_syscfg.o
-       702         58          0          0          0       8429   stm32f4xx_tim.o
-       438          8          0          0          0       5657   stm32f4xx_usart.o
-       936         70          0         10          0       4536   sysstate.o
-       340         32          0         20          0       1921   system_stm32f4xx.o
-        72          4          0          0          0        592   target.o
-       364         34          0         44          0      30869   time.o
-       380         64          4         40         64       2348   ultra.o
-       548         70          0         34         96       5179   usart.o
+       892         58          0         13          0       6025   ads1118.o
+         0          0       2052          0          0        591   arm_common_tables.o
+       144         12          0          0          0        726   arm_cos_f32.o
+       140         12          0          0          0        726   arm_sin_f32.o
+      2760        110          4         48        108      17984   attitude.o
+       872         62          0         13         48       3664   battery.o
+       132         22          0         16          0       2140   buzzer.o
+      9630        224          0         15         24      14130   communication.o
+      1148          4          0          0          0       5060   filter.o
+      4184        326          4       1000          0       7635   flycontrol.o
+       440         48          0         27       1036       3756   gps.o
+       814         80          4         20        120       5406   hmc5883.o
+       772          0          0          0          0       6436   i2c_soft.o
+       280         40          0         32          0       2900   led.o
+       250         76          4          0         96     341459   main.o
+       520         36          0         12          0      19962   math_user.o
+       140         24          0          0          0       1515   misc.o
+      1428         88          0         20         24       3267   motor.o
+      2016        172          4         28        228       9651   mpu6050.o
+      1680        168          4         30        168       8430   ms5611_spi.o
+      1262        120          0         40         96      10310   nrf24l01.o
+       888         44          0          0          0       2468   pid.o
+      1360        218          4         40        104       7522   posotion.o
+       724         88        192         33         98       5697   sbus.o
+       174         58          0         16          0       3352   scheduler.o
+        64         26        392          0       1536        820   startup_stm32f40xx.o
+       392         24          0          0          0       5379   stm32f4xx_adc.o
+       110          6          0          0          0       2341   stm32f4xx_dma.o
+       184         16          0          0          0       2040   stm32f4xx_exti.o
+       402         40          0          0          0       4349   stm32f4xx_flash.o
+       222          0          0          0          0       2815   stm32f4xx_gpio.o
+        24          0          0          0          0       3548   stm32f4xx_it.o
+       324         32          0         16          0       4591   stm32f4xx_rcc.o
+       112          0          0          0          0       3410   stm32f4xx_spi.o
+        64          4          0          0          0        640   stm32f4xx_syscfg.o
+       702         58          0          0          0       7889   stm32f4xx_tim.o
+       438          8          0          0          0       5309   stm32f4xx_usart.o
+       936         70          0         10          0       4184   sysstate.o
+       340         32          0         20          0       1753   system_stm32f4xx.o
+        72          4          0          0          0        548   target.o
+       364         34          0         44          0      30441   time.o
+       380         64          4         40         64       2176   ultra.o
+       548         70          0         34         96       4795   usart.o
 
     ----------------------------------------------------------------------
-     38360       2578       2702       1588       3852     591404   Object Totals
+     38360       2578       2702       1588       3852     577840   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         32          0          2         21          6          0   (incl. Padding)
 
@@ -4542,8 +4542,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     49686       3480       3170       1588       3948     573096   Grand Totals
-     49686       3480       3170        332       3948     573096   ELF Image Totals (compressed)
+     49686       3480       3170       1588       3948     559532   Grand Totals
+     49686       3480       3170        332       3948     559532   ELF Image Totals (compressed)
      49686       3480       3170        332          0          0   ROM Totals
 
 ==============================================================================
